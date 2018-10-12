@@ -20,4 +20,4 @@
 
 5. Further, we plan to use a clustering algorithm to recommend the emergency camp set up in and around the city so that it should be able to help people in need. Let say 100 people have requested for help, and the nearest emergency camp is at the 20km distance or more. Then we will run a clustering algorithm to cluster the people (input will be current location) and based on clusters (say k in number) we will recommend the existing camps or else to set up the new camps in these k locations.
 
-6. If time permits and have sufficient datasets, we would like to train deep-nets to recognize the child given the parents image and photos taken in the relief camps, disaster-affected areas.
+6. If time permits and have sufficient datasets, we would like to train deep-nets to recognize the child given the parents image and photos (or the other way round) taken in the relief camps, disaster-affected areas.
