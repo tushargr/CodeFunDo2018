@@ -7,8 +7,8 @@
 # Post-disaster Management
 1.We will use crowdsourcing to gather information about the emergency camps in and around the city.
 
-2.People willing to help will also be able to register.
+2.People willing to help will also be able to register through the app.
 
-3.Further we plan to use clustering algorithm to recommend the emergency camp setup in and around the city so that it should be able to help people in need.
+3.Further we plan to use clustering algorithm to recommend the emergency camp setup in and around the city so that it should be able to help people in need.The basic idea is we will decide some threshold like if let say 100 people have requested for help and the nearest emergency camp showing is at 20km distance or more then we would run some clustering algorithm to cluster the users(on this database)the users(basically input to clustering will be lat-lon of users) and based on such clusters(say k clusters) will recommend the already existing camps to setup the camps in these k locations.
 
-4.If time permits and have sufficient datasets we would like train deep-net to recognize the child given the parents.
+4.If time permits and have sufficient datasets we would like to train deep-nets to recognize the child given the parents.
